@@ -1,0 +1,7 @@
+./pre_img\hamza\ActiOn_3.png 239 79 635 620
+./pre_img\hamza\ActiOn_4.png 263 190 658 710
+./pre_img\hamza\ActiOn_5.png 339 177 751 701
+./pre_img\hamza\ActiOn_6.png 297 157 680 722
+./pre_img\hamza\ActiOn_7.png 269 185 615 686
+./pre_img\hamza\ActiOn_8.png 235 118 509 473
+./pre_img\hamza\ActiOn_9.png 189 103 476 481
